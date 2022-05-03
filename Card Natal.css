@@ -1,0 +1,23 @@
+#PPlogo {width: 100%;
+        align-content: center;
+        align-items: center;
+        text-align: center}
+#ifoodtxt {font-size: 30px;
+           margin: 10px 300px 0px 300px;
+           padding-top: 10px;
+           text-align: center;
+           align-items: center;
+           align-content: center}
+#ifoodtxttwo {font-size: 15px;
+        margin: 10px 300px 0px 300px;
+        padding-top: 10px;
+        text-align: center;
+        align-items: center;
+        align-content: center}
+#usarifood {font-size: 30px;    
+            color: #11C76F}
+#ifoodimg {display: block;
+           margin: 0 auto}
+#creditstore {text-align: center}
+#cardimg {display: block;
+          margin: 0 auto}
